@@ -56,7 +56,6 @@ The dashboard is divided into three main sections:
 
 ## 🛠️ Technologies Used
 - **Frontend**: Power BI (or similar visualization tools) for interactive dashboards.
-- **Backend**: Data preprocessing and aggregation using Python, SQL, or equivalent tools.
 - **Data Sources**: ATM transaction logs, maintenance records, and revenue data.
 
 ## 📊 Key Metrics Explained
